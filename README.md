@@ -28,9 +28,6 @@ Este é um site de e-commerce fictício, projetado para exibir produtos e avalia
 │── 📄 README.md
 ```
 
-## 📷 Capturas de Tela
-(Adicione capturas de tela aqui caso necessário)
-
 ## ⚙️ Como Executar
 1. Clone o repositório:
    ```bash
